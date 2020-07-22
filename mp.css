@@ -1,0 +1,17 @@
+form {
+    margin: 100 10 10 100;
+    padding-left: 50%;
+    background-image: url(./a11924791.jpg);
+}
+
+div {
+    margin: 15px;
+    color: black;
+    width: 77px;
+}
+
+.whoami {
+    font-size: larger;
+    font-style: italic;
+    font-weight: normal;
+}
